@@ -4,7 +4,7 @@ aSid is a program which runs on your Commodore 64, and turns it into a moog-like
 
 ## Use ##
 
-aSid comes as a binary file that has been compiled for the Commodore 64 computer. You can download the binary file from <./bin> and then either run it in an emulator, or copy it to an [cartridge](https://encrypted.google.com/search?hl=en&q=c64%20turbo%20cartridge), or a diskette, or tape, and load it into an actual C64. Running it on the hardware gives the best results as every 6581 SID chip sounds unique.
+aSid comes as a binary file that has been compiled for the Commodore 64 computer. You can download the binary file from the [bin](./bin) folder and run it in an emulator, or copy it to an [cartridge](https://encrypted.google.com/search?hl=en&q=c64%20turbo%20cartridge), or a diskette, or tape, and load it into an actual C64. Running it on the hardware gives the best results as every 6581 SID chip sounds unique.
 
 ## Instructions & Keys ##
 
