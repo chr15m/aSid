@@ -2,9 +2,9 @@
 
 aSid is a program which runs on your Commodore 64, and turns it into a moog-like monophonic synthesizer. Connect paddles to your commodore 64 and use each paddle to control a different parameter. The synthesizer is played by using the lower two rows of commodore keys like piano keys. You can also run sounds into your C64 using the A/V in port and the filters will affect the sound as it passes through the machine.
 
-## Use ##
+## Download ##
 
-aSid comes as a binary file that has been compiled for the Commodore 64 computer. You can download the binary file from the [bin](./bin) folder and run it in an emulator, or copy it to an [cartridge](https://encrypted.google.com/search?hl=en&q=c64%20turbo%20cartridge), or a diskette, or tape, and load it into an actual C64. Running it on the hardware gives the best results as every 6581 SID chip sounds unique.
+aSid comes as a binary file that has been compiled for the Commodore 64 computer. You can download the binary file as [synth.prg](./bin/synth.prg) and run it in an emulator as the raw binary [synth](./bin/synth) and copy it to an [cartridge](https://encrypted.google.com/search?hl=en&q=c64%20turbo%20cartridge), or a diskette, or tape, and load it into an actual C64. Running it on the hardware gives the best results as every 6581 SID chip sounds unique.
 
 ## Instructions & Keys ##
 
