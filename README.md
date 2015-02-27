@@ -1,4 +1,4 @@
-![aSid Logo](./images/aSid.png)
+![aSid Logo](./img/aSid.png)
 
 aSid is a program which runs on your Commodore 64, and turns it into a moog-like monophonic synthesizer. Connect paddles to your commodore 64 and use each paddle to control a different parameter. The synthesizer is played by using the lower two rows of commodore keys like piano keys. You can also run sounds into your C64 using the A/V in port and the filters will affect the sound as it passes through the machine.
 
